@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pragyan</h1>
+<h1 align="center">Hi 👋, I'm Pragyan!</h1>
 <h3 align="center">A passionate Data Scientist from University of Liverpool looking for opportunities to dive deeper into the field of Data Science and Engineering.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyber-prags&label=Profile%20views&color=0e75b6&style=flat" alt="cyber-prags" /> </p>
