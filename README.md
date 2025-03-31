@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyber-prags" alt="cyber-prags" /></a> </p>
 
-- 🔭 I’m currently working on **Tomato Disease Classification using a Mobile app**
+- 🔭 I’m currently working on **An Agentic workflow for an automated travel app**
 
-- 🌱 I’m currently learning **React, nodejs**
+- 🌱 I’m currently learning **Rust**
 
 - 👯 I’m looking to collaborate on **projects on ML and AI**
 
-- 👨‍💻 All of my projects are available at [https://pragyan-portfolio.netlify.app/](https://pragyan-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [[https://pragyan-dutta.netlify.app/](https://pragyan-dutta.netlify.app/)]
 
-- 📫 How to reach me **duttapragyanjyoti@gmail.com**
+- 📫 How to reach me **pragyan.jyoti.dutta01@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/pragyan-jyoti-dutta/](https://www.linkedin.com/in/pragyan-jyoti-dutta/)
 
-- ⚡ Fun fact **I am a powerlifter but I look more like of a powerbuilder- strength of a body-builder and the physique of a powerlifter.**
+- ⚡ Fun fact **I had a listening time of 135k mins on Spotify a few years back(top 0.01% in the world) **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
