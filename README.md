@@ -1,15 +1,23 @@
 <h1 align="center">Hi 👋, I'm Pragyan!</h1>
 <h3 align="center">A passionate AI Engineer, thriving to make an impact.</h3>
 
+
+<!-- Profile Views (Dark Blue Style) -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cyber-prags&label=Profile%20views&color=0e75b6&style=flat" alt="cyber-prags" />
+  <img src="https://komarev.com/ghpvc/?username=cyber-prags&label=Profile%20views&color=1f6feb&style=flat-square" alt="cyber-prags" />
 </p>
 
+<!-- GitHub Trophies with Dark Theme -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=cyber-prags" alt="cyber-prags" />
+    <img src="https://github-profile-trophy.vercel.app/?username=cyber-prags&theme=darkhub&no-frame=true&margin-w=10&margin-h=10" alt="cyber-prags" />
   </a>
 </p>
+
+
+<div align="center">
+    <img align="center" src="https://i.giphy.com/LXxWO0pgGEma8W40A9.webp" height="300px" />
+</div>
 
 - 🔭 I’m currently working on **a LegalTech app idea**  
 - 🌱 I’m currently learning **Rust**  
@@ -42,13 +50,18 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cyber-prags&show_icons=true&locale=en&layout=compact" alt="top languages" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=cyber-prags&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cyber-prags&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cyber-prags&show_icons=true&locale=en" alt="github stats" />
-</p>
+
 
 ---
 
